@@ -1,0 +1,153 @@
+.center-img {
+    display: block;
+    margin: 0 auto;
+    max-width: inherit;
+}
+
+
+
+
+.color-div {
+    background-color: #c1996ad1;
+    height: 70px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 137%;
+    font-weight: bold;
+    color: #390a09;
+
+
+  }
+
+.img-icon {
+  height: 90%;
+}
+
+
+.btn:hover {
+    color: #845953ed;
+    text-decoration: none;
+    border-radius: 10pt !important;
+  }
+
+  .btn {
+    background-color: #812020e8 !important;
+    color: #f5e7d7 !important;
+      border-radius: 10pt !important;
+      font-size: 2rem !important;
+  }
+
+.btn-primary{
+
+    border-color: #000000 !important;}
+
+.demo {
+    margin: 5% 10%;
+    z-index: 1000;
+}
+
+
+
+
+
+label {
+    display: inline-block;
+    margin-bottom: .5rem;
+    font-family: URW Chancery L, cursive;
+}
+
+
+
+
+.hide + label {
+    border-bottom: 1px dotted green;
+    border-radius: 30%;
+    padding: 0;
+    color: #652222 !important;
+    background-color: #82d35e;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    top: 82%;
+    left: -62%;
+}
+
+
+
+.hide:checked + label + div {
+    display: flex !important;
+    background: #e5d7af;
+    -moz-box-shadow: inset 3px 3px 10px #7d8e8f;
+    /* -webkit-box-shadow: inset 3px 3px 10px #7d8e8f; */
+    box-shadow: inset 3px 3px 10px #7d8e8f;
+    font-size:30px ;
+    word-break: break-word;
+    width: 226pt;
+    border-radius: 30px;
+    position: relative !important;
+    left: -61% !important;
+    font-family: URW Chancery L, cursive;
+    text-align: center;
+}
+
+
+
+
+
+
+.pizza {
+    width: 150pt;
+    border-radius: 23px;
+}
+
+.pizza-div {
+    border: 2px solid black;
+    border-radius: 23px;
+    font-size: 121%;
+    background-color: #a98359ab;
+    color: #390a09;
+    font-weight: bold;
+
+
+
+}
+
+
+header {
+    background-image: url("https://avatanplus.com/files/resources/original/5772b97c1b59b15598248cd0.jpg");
+    position: relative;
+    background-repeat: repeat;
+    background-size: 100%;
+}
+
+body {
+    background-image:url("https://i.pinimg.com/564x/c9/b2/a5/c9b2a59907a5037469847f73606dd0c8.jpg");
+    background-size: 20%;
+    max-height: 100pt;
+}
+
+
+.card{
+    background-color: #ccaa7ead !important;
+    font-size: larger;
+}
+
+a {
+    color: #7d2321 !important;
+}
+
+
+.name-pizza{
+    background: #e1c094;
+    border-radius: inherit;
+    margin: 10px;
+}
+
+.text-decor{
+    text-decoration: underline;
+}
+
+.dinner-center{
+    position: relative;
+    text-align-last: center;
+}
