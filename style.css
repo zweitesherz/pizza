@@ -141,13 +141,21 @@ a {
     background: #e1c094;
     border-radius: inherit;
     margin: 10px;
+    color: #390a09;
 }
 
 .text-decor{
-    text-decoration: underline;
+    color: #000000;
+    font-size: 120%;
+
 }
+
 
 .dinner-center{
     position: relative;
     text-align-last: center;
+}
+
+.margins{
+    margin-left: 0.5rem;
 }
