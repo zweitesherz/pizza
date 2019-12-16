@@ -170,3 +170,9 @@ a {
 .my-card-body {
     padding: 0.5rem !important;
 }
+
+.overline {
+
+    color: #e6e1db;
+    text-decoration: overline;
+}
